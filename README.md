@@ -51,18 +51,26 @@ Nyan Cat: Lost In Space - Characters - Nyan Cat" Available at: https://www.sprit
 
 4. Minion death Sprites: "Kirby's Dream Land 3 - Enemies & Bosses - Enemies" Available at: https://www.spriters-resource.com/fullview/2829/
 
-5. Main Font: "Pixel Font - Tripfive by PixelMush" Available at: https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
+5. Main Menu Arrows keys  Sprite: "Pixel Arrow Keys Png, Transparent Png" Available at: https://www.pngarea.com/view/53c77ae4_pixel-arrow-keys-png-transparent-png/
 
-6. Secondary Font: "Free Pixel Font - Thaleah by 
+6. Main Menu WASD keys Sprite: "Arrow Keys Pixel Art, Stencil, Pattern Transparent Png" Available at: https://pngset.com/download-free-png-drpno
+
+7. Main Menu Esc key Sprite: "esc Key" Available at: http://pixelartmaker.com/art/2997588b805374a
+
+8. Main Menu Spacebar key Sprite: "spacebar" Available at: http://pixelartmaker.com/art/6f5bf6a2121ddb0
+
+9. Main Font: "Pixel Font - Tripfive by PixelMush" Available at: https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
+
+10. Secondary Font: "Free Pixel Font - Thaleah by 
 Tiny Worlds" Available at: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
 
-7. Main Menu Background Image: "pixel space by Headphone-Kirby" Available at: https://www.deviantart.com/headphone-kirby/art/pixel-space-674732069
+11. Main Menu Background Image: "pixel space by Headphone-Kirby" Available at: https://www.deviantart.com/headphone-kirby/art/pixel-space-674732069
 
-8. Main Menu Music: "Nyan Cat - Smooth Jazz Cover by 
+12. Main Menu Music: "Nyan Cat - Smooth Jazz Cover by 
 Heartless Corporation" Available at: https://www.youtube.com/watch?v=AaEmCFiNqP0
 
-9. Level 1 Music: "Nyan Cat Instrumental by 
+13. Level 1 Music: "Nyan Cat Instrumental by 
 nigahiga10able" Available at: https://www.youtube.com/watch?v=VTOflaNWefM
 
-10. Level 2 Music: "Density & Time - MAZE ♫ NO COPYRIGHT 8-bit Music by 
+14. Level 2 Music: "Density & Time - MAZE ♫ NO COPYRIGHT 8-bit Music by 
 Free Music" Available at: https://www.youtube.com/watch?v=OuRvOCf9mJ4
