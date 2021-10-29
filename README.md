@@ -51,7 +51,7 @@ Nyan Cat: Lost In Space - Characters - Nyan Cat" Available at: https://www.sprit
 
 4. Minion death Sprites: "Kirby's Dream Land 3 - Enemies & Bosses - Enemies" Available at: https://www.spriters-resource.com/fullview/2829/
 
-5. Main Menu Arrows keys  Sprite: "Pixel Arrow Keys Png, Transparent Png" Available at: https://www.pngarea.com/view/53c77ae4_pixel-arrow-keys-png-transparent-png/
+5. Main Menu Arrow keys  Sprite: "Pixel Arrow Keys Png, Transparent Png" Available at: https://www.pngarea.com/view/53c77ae4_pixel-arrow-keys-png-transparent-png/
 
 6. Main Menu WASD keys Sprite: "Arrow Keys Pixel Art, Stencil, Pattern Transparent Png" Available at: https://pngset.com/download-free-png-drpno
 
