@@ -11,12 +11,11 @@ Avoid obstacles, enemies and collect points during this adventure.
 ### Game instructions
 * The cat is controlled with the keyboard's arrows or with the keys W A S D, he can also jump with the Spacebar.
   The objective of the game is to collect all the cookies, in order to advance to the next level. 
-* The cat can jump over the Minions.
+* The cat can jump on the Minions.
 * He has 4 lives, everytime the cat touches an enemy, he looses one live.
 * The cat must end the level before the timer ends.  
 
-INTRODUCIMOS UN PANTALLAZO INFORMATIVO
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/139504578-de02fc65-ccd5-4513-85b3-d16ab67258fd.PNG" width="560">
 
 * The Minions are the red monsters.
 * The Viggies are the grey birds, Nyan cat can´t kill them.  
@@ -25,16 +24,13 @@ INTRODUCIMOS UN PANTALLAZO INFORMATIVO
 The Game has two levels and a main menu. 
 The main menu has an start button and a 'how to play' section, which contains the game instructions.
 
-PANTALLAZO DEL MENU PRINCIPAL
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
-PANTALLAZOS DE LA EXPLICACION DEL JUEGO
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/139504488-68d40126-1abb-4060-aab8-25070e9fb1f7.PNG" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/139504494-7f687ac8-8e94-47be-9a4a-7ea48ad742cc.PNG" width="560">
 
 The two levels have similar elements, but the difficulty increases from one to another level, the monsters' speed 
 increases and the environment creates more challenges. 
 
-PANTALLAZO DEL NIVEL 2
-<img src="https://user-images.githubusercontent.com/43209755/60149719-4b444080-979b-11e9-981c-fa76689d7db6.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/139504501-1d325789-2f15-44bb-bf43-fad140d8a73c.PNG" width="560">
 
 
 #### Functionality
@@ -46,16 +42,27 @@ By downloading this repository and executing the file NyanCatWorld.exe, the game
 
 ### Miscellaneous
 
-1. Corn Image : "Minecraft: Pocket Edition Item Crop Wheat" Available at: https://www.uihere.com/free-cliparts/minecraft-pocket-edition-item-crop-wheat-minecraft-pixel-art-doge-5141279
+1. Nyan Cat Sprites (Game) : "
+Nyan Cat: Lost In Space - Characters - Nyan Cat" Available at: https://www.spriters-resource.com/fullview/139234/
 
-2. Cars Image: "Cute vehicles by toribird" Available at: http://pixeljoint.com/pixelart/81033.htm
+2. Nyan Cat Sprites (Menu): "nyancat sprite sheet not completed by digimonfakedrawer" Available at: https://www.deviantart.com/digimonfakedrawer/art/nyancat-sprite-sheet-not-completed-278201601
 
-3. Highway Image: "Toon road texture by davidstenfors" Available at: https://www.davidstenfors.com/#!/downloads
+3. Minion and Viggies Sprites: "Sprite Pack 1 by GrafxKid" Available at: https://grafxkid.itch.io/sprite-pack-1
 
-4. Background Image: "powerpuff girls house - Google Search" Available at: https://co.pinterest.com/pin/390757705152412055/?lp=true
+4. Minion death Sprites: "Kirby's Dream Land 3 - Enemies & Bosses - Enemies" Available at: https://www.spriters-resource.com/fullview/2829/
 
-5. Tombstone Image: "Pinsanity 8-Bit Pixel Tombstone"Game Over" Enamel Lapel Pin" Available at: https://www.amazon.com/Pinsanity-8-Bit-Pixel-Tombstone-Enamel/dp/B07BCMXZKP?language=en_US
+5. Main Font: "Pixel Font - Tripfive by PixelMush" Available at: https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
 
-6. Chicken Image: "whtdragon's animals and running horses- now with more dragons!" Available at: https://forums.rpgmakerweb.com/index.php?threads/whtdragons-animals-and-running-horses-now-with-more-dragons.53552/
+6. Secondary Font: "Free Pixel Font - Thaleah by 
+Tiny Worlds" Available at: https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
 
-7. Chiken Sounds: "Collection of sound effects found in Minecraft" Available at: https://minecraft.gamepedia.com/Category:Sound_effects
+7. Main Menu Background Image: "pixel space by Headphone-Kirby" Available at: https://www.deviantart.com/headphone-kirby/art/pixel-space-674732069
+
+8. Main Menu Music: "Nyan Cat - Smooth Jazz Cover by 
+Heartless Corporation" Available at: https://www.youtube.com/watch?v=AaEmCFiNqP0
+
+9. Level 1 Music: "Nyan Cat Instrumental by 
+nigahiga10able" Available at: https://www.youtube.com/watch?v=VTOflaNWefM
+
+10. Level 2 Music: "Density & Time - MAZE ♫ NO COPYRIGHT 8-bit Music by 
+Free Music" Available at: https://www.youtube.com/watch?v=OuRvOCf9mJ4
