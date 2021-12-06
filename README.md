@@ -1,7 +1,4 @@
 # Nyan Cat World :smiley_cat:
-#### Gabriel Castillo 
-#### Daniela Celis 
-#### Luis Miguel Castellanos
 
 ### Platform game based on Nyan Cat, a meme born in 2011 
 ### Introduction
